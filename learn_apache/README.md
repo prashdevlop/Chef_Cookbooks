@@ -1,4 +1,4 @@
 # learn_apache
 
-TODO: Enter the cookbook description here.
+This is simple cookbook to setup apache server
 
